@@ -1,0 +1,16 @@
+# Site settings
+title: Ты не такой умный
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ты не такой умный — это блог о различных самообманах и проявлениях нерационального мышления.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://youarenotsosmart.ru" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+vk_group: notsosmart
+fb_group: youarenotsosmart.ru
+
+# Build settings
+markdown: kramdown
+
+comments: no
