@@ -5,8 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ты не такой умный — это блог о различных самообманах и проявлениях нерационального мышления.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://youarenotsosmart.ru" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-#github_username:  jekyll
+permalink: /:year/:month/:day/:title/
 vk_group: notsosmart
 fb_group: youarenotsosmart.ru
 
