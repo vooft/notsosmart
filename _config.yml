@@ -8,6 +8,7 @@ url: "http://youarenotsosmart.ru" # the base hostname & protocol for your site
 permalink: /:year/:month/:title/
 vk_group: notsosmart
 fb_group: youarenotsosmart.ru
+exclude: misc
 
 # Build settings
 markdown: kramdown
