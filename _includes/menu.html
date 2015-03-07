@@ -1,0 +1,9 @@
+<h4>
+	<a href="{{ "/" | prepend: site.baseurl }}">Главная</a>
+</h4>
+
+{% for post in site.posts %}
+	<h5>
+		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+	</h5>
+{% endfor %}

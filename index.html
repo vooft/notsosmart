@@ -2,22 +2,22 @@
 layout: default
 ---
 
-<div class="home">
+<div class="container">
+  <div class="row">
+    
 
-  <h1 class="page-heading">Публикации</h1>
+    <div class="col-md-2">
+      {% include menu.html %}
+    </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="col-md-10">
+      <div class="blog-index">  
+        {% assign post = site.posts.first %}
+        {% assign content = post.content %}
+        {% include post_detail.html %}
+      </div>
+    </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </div>
 
 </div>

@@ -1,29 +1,31 @@
 ---
 layout: default
 ---
-<div id="fb-root"></div>
-<!--<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=276903495654443";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, "script", "facebook-jssdk"));</script>-->
+<div class="container">
+  <div class="row">
+    
 
-<div class="post">
+    <div class="col-md-2">
+      {% include menu.html %}
+    </div>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    <div class="col-md-10">
+      <header class="post-header">
+        <h2 class="post-title">{{ page.title }}</h1>
+        <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+      <article class="post-content">
+        {{ content }}
+      </article>
 
-  {% if page.comments %} 
-    <hr/>
-    <h2>Comments</h2>
-    <div class="fb-comments" data-href="{{ "{{ site.url " }}}}{{ "{{ page.url " }}}}" data-num-posts="4" data-width="706"></div>
-   {% endif %}
+      {% if page.comments %} 
+        <hr/>
+        <h2>Comments</h2>
+        <div class="fb-comments" data-href="{{ "{{ site.url " }}}}{{ "{{ page.url " }}}}" data-num-posts="4" data-width="706"></div>
+      {% endif %}
+    </div>
+
+  </div>
+
 </div>

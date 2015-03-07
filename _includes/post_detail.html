@@ -1,0 +1,14 @@
+<header class="post-header">
+  <h2 class="post-title"><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+</header>
+
+<article class="post-content">
+  {{ content }}
+</article>
+
+{% if page.comments %} 
+  <hr/>
+  <h2>Comments</h2>
+  <div class="fb-comments" data-href="{{ "{{ site.url " }}}}{{ "{{ page.url " }}}}" data-num-posts="4" data-width="706"></div>
+{% endif %}
