@@ -3,7 +3,7 @@ layout: post
 title:  "Ошибка выживших"
 date:   2014-10-06 12:00:00
 ---
-<p><a href="https://web.archive.org/web/20141006073615/http://youarenotsosmart.com/2013/05/23/survivorship-bias/">Оригинал</a>.</p>
+<p><a href="http://youarenotsosmart.com/2013/05/23/survivorship-bias/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Чтобы понять, как добиться успеха, нужно изучать истории успеха.</p>
 <p><strong>Истина</strong>: Если провал незаметен, то и разница между успехом и провалом не видна.</p>
 <p><a href="/img/survivorship-bias/carry-the-one-poster-small.jpg"><img height="300" width="200" src="/img/survivorship-bias/carry-the-one-poster-small.jpg" alt="Carry The One POSTER" class="alignleft size-medium wp-image-836" /></a>Однажды в Нью-Йорке, в квартире в паре кварталов от центра Гарлема, над деревьями, растущими вдоль улиц, и собаками, рвущимися с поводков, и беседами, оборванными на полуслове, чтобы избежать штрафа за парковку в неположенном месте, собралась группа ученых и составила уравнения, которые могли бы с одинаковым успехом как убить, так и спасти сотни тысяч человеческих жизней.</p>
