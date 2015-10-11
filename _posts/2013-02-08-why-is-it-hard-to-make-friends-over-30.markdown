@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Почему так сложно заводить друзей после 30"
-date:   2014-03-29 12:00:00
+date:   2013-02-08 12:00:00
 ---
 <p>Alex Williams, <a href="http://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html">nytimes.com</a></p>
 <p><a href="/img/why-is-it-hard-to-make-friends-over-30/20120715-FRIENDS-slide-F9VL-articleLarge.jpg"><img height="221" width="300" src="/img/why-is-it-hard-to-make-friends-over-30/20120715-FRIENDS-slide-F9VL-articleLarge-300x221.jpg" alt="20120715-FRIENDS-slide-F9VL-articleLarge" class="alignleft size-medium wp-image-753" /></a>Это было подобно очаровательной сцене «свидания вслепую» из какой-нибудь романтической голливудской комедии, только без прилагательного «романтической». Я встретил Брайана, сценариста из Нью-Йорка, несколько лет назад по работе. Это привело к ужину вместе с нашими жёнами и вызвало моментальную и очевидную «химию дружбы».</p>

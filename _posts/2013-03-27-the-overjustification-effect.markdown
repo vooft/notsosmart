@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Эффект избыточного оправдания"
-date:   2014-03-29 12:00:00
+date:   2013-02-27 12:00:00
 ---
 <p><a href="http://youarenotsosmart.com/2011/12/14/the-overjustification-effect/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Нет ничего лучше, чем зарабатывать на жизнь своим любимым делом.</p>

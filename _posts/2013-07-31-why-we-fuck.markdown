@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Почему мы занимаемся сексом"
-date:   2014-10-08 12:00:00
+date:   2013-07-31 12:00:00
 ---
 <p><a href="http://www.raptitude.com/2012/06/why-we-fck/">raptitude.com</a></p>
 <p><a href="/img/why-we-fuck/3400853365_2a92af214a.jpg"><img height="226" width="300" src="/img/why-we-fuck/3400853365_2a92af214a.jpg" alt="3400853365_2a92af214a" class="alignleft size-medium wp-image-871" /></a>Английский философ Томас Гоббс плотно поселил в наших головах мысль о том, что наши предки были жалкими, одинокими и подлыми людишками.</p>

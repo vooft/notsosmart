@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Истощение эго"
-date:   2014-10-07 12:00:00
+date:   2013-06-23 12:00:00
 ---
 <p><a href="http://youarenotsosmart.com/2012/04/17/ego-depletion/" title="Оригинал.">Оригинал.</a></p>
 <p><strong>Заблуждение</strong>: Сила воли — это всего лишь фигура речи.</p>
