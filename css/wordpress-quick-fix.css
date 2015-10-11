@@ -1,0 +1,14 @@
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.alignleft { float: left; }
+.alignright { float: right; }
+
+.post-content .alignright, .post-content .alignright .float-quote { margin: 0 0 10px 15px; }
+.post-content .alignleft, .post-content .alignleft .highlight-box { margin: 0 15px 10px 0; }
+.wp-caption p {
+	font-style: italic;
+	color: #888;
+}
