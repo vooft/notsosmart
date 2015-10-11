@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Положительное влияние жевательной резинки на умственную деятельность"
-date:   2014-03-29 12:00:00
+date:   2012-09-29 12:00:00
 ---
 <p>Это перевод статьи из журнала Wired, <a href="http://www.wired.com/wiredscience/2011/11/the-cognitive-benefits-of-chewing-gum/">оригинал</a>.</p>
 <p><a rel="attachment wp-att-706" href="http://youarenotsosmart.ru/2012/09/the-cognitive-benefits-of-chewing-gum/3436822083_6202e2e67c_z/"><img height="200" width="300" alt="" src="/img/the-cognitive-benefits-of-chewing-gum/3436822083_6202e2e67c_z-300x200.jpg" title="3436822083_6202e2e67c_z" class="alignleft size-medium wp-image-706" /></a></p>
