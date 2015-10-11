@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Как дневной сон влияет на наш мозг и почему он нужен каждый день"
-date:   2014-02-09 12:00:00
+date:   2013-09-10 12:00:00
 ---
 <p><a href="http://blog.bufferapp.com/how-naps-affect-your-brain-and-why-you-should-have-one-every-day">blog.bufferapp.com</a></p>
 <p><a href="/img/naps/nap.jpg"><img height="225" width="300" src="/img/naps/nap-300x225.jpg" alt="nap" class="alignleft size-medium wp-image-930" /></a>Я очень люблю поспать днем. На самом деле, когда я пришла работать сюда, в <a href="http://blog.bufferapp.com/">Buffer</a>, я была супер рада оказаться в команде людей, разделяющих концепцию полезности дневного сна. Не каждый день, знаете ли, попадаешь в компанию, которая разрешает своим сотрудникам лечь поспать в любой момент рабочего дня.</p>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ошибка выживших"
-date:   2014-10-06 12:00:00
+date:   2013-07-05 12:00:00
 ---
 <p><a href="http://youarenotsosmart.com/2013/05/23/survivorship-bias/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Чтобы понять, как добиться успеха, нужно изучать истории успеха.</p>
