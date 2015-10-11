@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Витамины: с чего мы взяли, что нам нужны пищевые добавки"
-date:   2014-10-07 12:00:00
+date:   2014-03-31 12:00:00
 ---
 <p><a href="http://www.theatlantic.com/health/archive/2013/07/the-vitamin-myth-why-we-think-we-need-supplements/277947/">theatlantic.com</a></p>
 <p><a href="/img/the-vitamin-myth-why-we-think-we-need-supplements/vitamin_c.jpg"><img height="199" width="300" alt="vitamin_c" src="/img/the-vitamin-myth-why-we-think-we-need-supplements/vitamin_c.jpg" class="alignleft size-medium wp-image-64" /></a>Диетологи утверждают, что самый обычный рацион обеспечивает человека всеми необходимыми питательными веществами. Однако представители различных медицинских компаний, жонглируя захватывающими фактами, доказывают, что продукты не настолько богаты витаминами и мы должны дополнительно принимать всякие витаминно-минеральные комплексы и пищевые добавки. К счастью, было проведено достаточно много качественных научных исследований, что позволяет быстро разрешить это противоречие.</p>

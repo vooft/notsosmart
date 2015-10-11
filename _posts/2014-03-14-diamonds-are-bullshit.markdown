@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Худшие друзья денег — это бриллианты"
-date:   2014-10-07 12:00:00
+date:   2014-03-14 12:00:00
 ---
 <p><a href="http://blog.priceonomics.com/post/45768546804/diamonds-are-bullshit">priceonomics.com</a></p>
 <p><a href="/img/diamonds-are-bullshit/tumblr_inline_mjx550rA7t1qz4rgp.jpg"><img height="438" width="500" src="/img/diamonds-are-bullshit/tumblr_inline_mjx550rA7t1qz4rgp.jpg" alt="tumblr_inline_mjx550rA7t1qz4rgp" class="aligncenter size-full wp-image-1086" /></a></p>

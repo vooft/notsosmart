@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Руководство по выживанию для интровертов"
-date:   2014-10-09 12:00:00
+date:   2013-12-16 12:00:00
 ---
 <p><a href="http://www.psychologytoday.com/blog/making-your-team-work/201308/the-introverts-guide-surviving-teamwork">psychologytoday.com</a> by Liane Davey, Ph.D.</p>
 <p><a href="/img/the-introverts-guide-surviving-teamwork/cartoon_pic.jpg"><img height="160" width="300" src="/img/the-introverts-guide-surviving-teamwork/cartoon_pic.jpg" alt="cartoon_pic" class="alignleft size-medium wp-image-44" /></a>Для интровертов необходимость работать в коллективах является, возможно, одним из самых тягостных моментов существования на работе. Бесконечные часы, проведенные на шумных совещаниях с толпой экстравертов, фонтанирующих не до конца продуманными идеями, лишают вас сил и не приносят значительных результатов. Вот несколько советов, как сделать работу в команде если не более приятной, то хотя бы терпимой.</p>

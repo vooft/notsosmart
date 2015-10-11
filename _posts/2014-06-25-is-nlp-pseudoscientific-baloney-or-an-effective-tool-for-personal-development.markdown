@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "НЛП – псевдонаучная профанация или эффективный инструмент личностного роста?"
-date:   2014-10-07 12:00:00
+date:   2014-06-25 12:00:00
 ---
 <p><a href="http://www.harrykey.com/is-nlp-pseudoscientific-baloney-or-an-effective-tool-for-personal-development/">harrykey.com</a></p>
 <p><a href="http://youarenotsosmart.ru/wp-content/uploads/2014/06/nlp.jpg"><img height="300" width="246" alt="nlp" src="/img/is-nlp-pseudoscientific-baloney-or-an-effective-tool-for-personal-development/nlp-246x300.jpg" class="alignleft size-medium wp-image-1130" /></a>Нейролингвистическое программирование часто становится предметом жарких дебатов, которые любят разводить его почитатели, критики и просто всякие чудаки. Как и многие другие беседы в интернетах, обычно такие обсуждения быстро превращаются в обмен оскорблениями с переходом на личности, что, разумеется, представляет собой очень веселое чтиво, так что предлагаю начать еще одну такую же беседу.</p>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Сила Медитации и ее влияние на наш мозг"
-date:   2014-02-09 12:00:00
+date:   2013-10-01 12:00:00
 ---
 <p><a href="http://blog.bufferapp.com/how-meditation-affects-your-brain">Оригинал</a>.</p>
 <p><em><a href="/img/how-meditation-affects-your-brain/meditation.jpg"><img height="300" width="268" src="/img/how-meditation-affects-your-brain/meditation.jpg" alt="meditation" class="alignleft size-full wp-image-947" /></a>Автор оригинальной статьи — девушка, поэтому повествование тоже ведется от лица девушки.</em></p>

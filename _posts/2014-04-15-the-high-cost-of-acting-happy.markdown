@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Высокая цена счастливого поведения"
-date:   2014-10-07 12:00:00
+date:   2014-04-15 12:00:00
 ---
 <p><a href="http://anniemurphypaul.com/2014/02/the-high-cost-of-acting-happy/#">anniemurphypaul.com</a></p>
 <p><a href="/img/the_high_cost_of_acting_happy/female_cashier_and_customer_at_supermarket_is098v385.jpg"><img height="283" width="300" src="/img/the_high_cost_of_acting_happy/female_cashier_and_customer_at_supermarket_is098v385.jpg" alt="female_cashier_and_customer_at_supermarket_is098v385" class="alignleft size-full wp-image-1112" /></a>Резюме: «Клиенты имеют право ожидать от персонала профессиональной вежливости, но давайте будем выражать человеческие эмоции в тех случаях, когда они честны и искренни».</p>
