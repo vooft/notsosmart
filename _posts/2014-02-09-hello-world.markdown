@@ -3,7 +3,7 @@ layout: post
 title:  "Слепота невнимания"
 date:   2014-02-09 12:00:00
 ---
-<p><a href="https://web.archive.org/web/20140209060850/http://youarenotsosmart.com/2009/10/01/hello-world/">Оригинал</a>.</p>
+<p><a href="http://youarenotsosmart.com/2009/10/01/hello-world/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Вы, подобно камере, замечаете и фиксируете абсолютно все, что происходит вокруг вас.</p>
 <p><strong>Истина</strong>: Вы осознаете очень малую толику вещей, попадающих в ваше поле зрения, ещё меньше — обрабатываете сознательно и почти ничего не запоминаете.</p>
 <p><a href="/img/hello-world/invisiblegorilla.jpg"><img class="alignleft size-full wp-image-913" height="300" width="300" alt="invisiblegorilla" src="/img/hello-world/invisiblegorilla.jpg" /></a>Существование слепоты невнимания помогло сделать карьеру не одному фокуснику.</p>
