@@ -3,7 +3,7 @@ layout: post
 title:  "Макияж"
 date:   2011-09-16 12:00:00
 ---
-<p><a href="https://web.archive.org/web/20141026200105/http://youarenotsosmart.com/2010/06/11/makeup/">Оригинал</a>.</p>
+<p><a href="http://youarenotsosmart.com/2010/06/11/makeup/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Макияж используется только для того, чтобы усилить определенные для данной культуры стандарты красоты.</p>
 <p><strong>Истина</strong>: Макияж имеет более глубокое значение; он позволяет усилить контрастность лица, позволяя быстрее определить пол.</p>
 <p><a href="/img/makeup/makeup.jpg"><img height="265" width="199" alt="" src="/img/makeup/makeup.jpg" title="makeup" class="alignleft size-full wp-image-382" /></a>В любой культуре, на протяжении всей нашей странной истории, люди старались подчеркнуть тонкую разницу между полами.</p>
@@ -14,7 +14,7 @@ date:   2011-09-16 12:00:00
 <p>В некоторых культурах мужчины носят макияж, а в некоторые эпохи мужчины носили туфли на высоких каблуках и чулки. Наведение марафета — это нечто, в чем оба пола солидарны, и это является общечеловеческим действием, начиная с пластин в губах и заканчивая солярием. Красота — она существует в глазах определенной культуры.</p>
 <p>В современном индустриализированном мире, женщины гораздо чаще мужчин пользуются косметикой. Почему так?</p>
 <p><span id="more-381"></span>Взгляните на эти два лица.</p>
-<p><a href="https://web.archive.org/web/20141026200105/http://youarenotsosmart.ru/wp-content/uploads/2011/09/twins_illusion_awesome.jpg"><img height="152" width="300" alt="" src="/img/makeup/twins_illusion_awesome-300x152.jpg" title="twins_illusion_awesome" class="aligncenter size-medium wp-image-383" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/09/twins_illusion_awesome.jpg"><img height="152" width="300" alt="" src="/img/makeup/twins_illusion_awesome-300x152.jpg" title="twins_illusion_awesome" class="aligncenter size-medium wp-image-383" /></a></p>
 <p>Одно из них принадлежит женщине, другое мужчине, так?</p>
 <p>Вообще-то нет. Это два одинаковых лица.</p>
 <p>Психолог Ричард Рассел [Richard Russell] из Гарварда создал эти два андрогинных изображения при помощи компьютера и изменил контраст. Вот и вся разница между ними.</p>
@@ -23,10 +23,10 @@ date:   2011-09-16 12:00:00
 <p>В культурах, где многие мужчины бреются, это естественное, неотчуждаемое упрощение помогло смотивировать принятие того или иного раскрашивания лица.</p>
 <p>Косметика усиливает этот естественный контраст. Губная помада и тени для век подчеркивают глаза и выделяют губы.</p>
 <p>Посмотрите на Джессику Рэббит [Jassica Rabbit]:</p>
-<p><a href="https://web.archive.org/web/20141026200105/http://youarenotsosmart.ru/wp-content/uploads/2011/09/jessica_rabbit460_1358077a.jpg"><img height="187" width="300" alt="" src="/img/makeup/jessica_rabbit460_1358077a-300x187.jpg" title="jessicarabbit01.jpg" class="aligncenter size-medium wp-image-384" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/09/jessica_rabbit460_1358077a.jpg"><img height="187" width="300" alt="" src="/img/makeup/jessica_rabbit460_1358077a-300x187.jpg" title="jessicarabbit01.jpg" class="aligncenter size-medium wp-image-384" /></a></p>
 <p>У нее нет никаких других черт лица. Только глаза и рот.</p>
 <p>А вот Мулан [Mulan]:</p>
-<p><a href="https://web.archive.org/web/20141026200105/http://youarenotsosmart.ru/wp-content/uploads/2011/09/screenshot_24.jpg"><img height="300" width="259" alt="" src="/img/makeup/screenshot_24-259x300.jpg" title="screenshot_24" class="aligncenter size-medium wp-image-385" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/09/screenshot_24.jpg"><img height="300" width="259" alt="" src="/img/makeup/screenshot_24-259x300.jpg" title="screenshot_24" class="aligncenter size-medium wp-image-385" /></a></p>
 <p>И тут тоже: подчеркнуты только нос и брови. Все остальное — пустой холст с нарисованными на нем глазами и ртом.</p>
 <p>Рисованные леди обычно рисуются с большим контрастом. Видели ли вы когда-нибудь рекламу Esurance (<a href="http://www.youtube.com/watch?v=EMUFb71fClk">пример</a> — <em>прим. переводчика</em>)? Ага, нарисованная девушка в рекламе выглядит так, будто ее нос был оторван в какой-то ужасной аварии. Но все же она имеет достаточное количество фан-арта в Интернете — и почти все они <a href="http://ru.wikipedia.org/wiki/Not_safe_for_work">NSFW</a>. Поищите в Google.</p>
 <blockquote><p>Женская красота, как известно, тесно связана с половыми различиями — женственность считается привлекательной. Это позволяют предположить, что косметика может действовать в части преувеличения одного из атрибутов полового диморфизма — контраста лица — чтобы сделать лицо более женственным, и, следовательно, привлекательным.</p>
@@ -38,6 +38,6 @@ date:   2011-09-16 12:00:00
 <p>Существует множество исследований, показывающих, что мужчины и женщины считают лица женщин во время овуляции более привлекателными, и что они не могут сказать, почему так.</p>
 <p>Ко всему прочему, во многих современных культурах макияж помогает женщинам при общении показать, что они молоды, способны к зачатию, здоровы и женственны.</p>
 <p>Учитывая все вышесказанное, это становится хорошим топливом для ночного кошмара:</p>
-<p><a href="https://web.archive.org/web/20141026200105/http://youarenotsosmart.ru/wp-content/uploads/2011/09/regan.jpg"><img height="300" width="232" alt="" src="/img/makeup/regan-232x300.jpg" title="regan" class="aligncenter size-medium wp-image-386" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/09/regan.jpg"><img height="300" width="232" alt="" src="/img/makeup/regan-232x300.jpg" title="regan" class="aligncenter size-medium wp-image-386" /></a></p>
 <p>Это не значит, что культурные нормы не могут сдвигаться и изменяться быстро. Просто поглядите Jersey Shore (телевизионный сериал на MTV — <em>прим. переводчика</em>), чтобы понять как.</p>
-<p><a href="https://web.archive.org/web/20141026200105/http://youarenotsosmart.ru/wp-content/uploads/2011/09/screenshot_28.jpg"><img height="273" width="300" alt="" src="/img/makeup/screenshot_28-300x273.jpg" title="screenshot_28" class="aligncenter size-medium wp-image-387" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/09/screenshot_28.jpg"><img height="273" width="300" alt="" src="/img/makeup/screenshot_28-300x273.jpg" title="screenshot_28" class="aligncenter size-medium wp-image-387" /></a></p>

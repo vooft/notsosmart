@@ -3,10 +3,10 @@ layout: post
 title:  "Улыбка Дюшена"
 date:   2011-06-13 12:00:00
 ---
-<p><a href="https://web.archive.org/web/20140329085503/http://youarenotsosmart.com/2010/06/09/the-duchenne-smile/">Оригинал</a>.</p>
+<p><a href="http://youarenotsosmart.com/2010/06/09/the-duchenne-smile/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Вы улыбаетесь, когда счастливы.</p>
 <p><strong>Истина</strong>: Вольные и невольные улыбки сильно различаются. Вы невольно улыбаетесь, когда хотите показать свое дружелюбие.</p>
-<p><a href="https://web.archive.org/web/20140329085503/http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_23.jpg"><img height="300" width="269" alt="" src="/img/the-duchenne-smile/screenshot_23-269x300.jpg" title="screenshot_23" class="alignleft size-medium wp-image-317" /></a>Не нужно быть мошенником, чтобы привыкнуть к лжи. Ложь — это часть того, что делает вас социальным существом.</p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_23.jpg"><img height="300" width="269" alt="" src="/img/the-duchenne-smile/screenshot_23-269x300.jpg" title="screenshot_23" class="alignleft size-medium wp-image-317" /></a>Не нужно быть мошенником, чтобы привыкнуть к лжи. Ложь — это часть того, что делает вас социальным существом.</p>
 <p>Будучи таким, вы много взаимодействуете с другими представителями своего вида — при помощи слов, жестов, выражений лица и т.д.</p>
 <p>Эволюционные психологи любят различные выражения. Большая часть из них, похоже, не меняется с детства и является врожденной. Это значит, что их можно заметить во всех культурах всех эпох. Иногда человеческие выражения просматриваются и у животных.</p>
 <p>Одно из универсальных выражений лица — улыбка. В любой точке мира, куда бы вы ни попали, люди улыбаются и это везде значит одно и то же. Если вы перенесетесь назад во времени при помощи машины времени в Древний Египет, то, скорее всего, далеко пойдете просто улыбаясь и кланяясь.</p>
@@ -21,10 +21,10 @@ date:   2011-06-13 12:00:00
 <p>Каждый день вы видите улыбки других, да и сами ее демонстрируете, но где-то на окраинах мозга догадываетесь, что она поддельная.</p>
 <p>Это допустимая форма обмана, маленькая смазка для неуклюжей машины человеческих взаимоотношений.</p>
 <p>Поглядите на эту улыбку:</p>
-<p><a href="https://web.archive.org/web/20140329085503/http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_20.jpg"><img height="273" width="300" alt="" src="/img/the-duchenne-smile/screenshot_20-300x273.jpg" title="screenshot_20" class="aligncenter size-medium wp-image-318" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_20.jpg"><img height="273" width="300" alt="" src="/img/the-duchenne-smile/screenshot_20-300x273.jpg" title="screenshot_20" class="aligncenter size-medium wp-image-318" /></a></p>
 <p>Она настоящая? Если так, то она искренняя или просто любезность? Является ли он суперсчастливым, или хочет показать в общении, что настроен не враждебно?</p>
 <p>А вот еще:</p>
-<p><a href="https://web.archive.org/web/20140329085503/http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_21.jpg"><img height="275" width="300" alt="" src="/img/the-duchenne-smile/screenshot_21-300x275.jpg" title="screenshot_21" class="aligncenter size-medium wp-image-319" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_21.jpg"><img height="275" width="300" alt="" src="/img/the-duchenne-smile/screenshot_21-300x275.jpg" title="screenshot_21" class="aligncenter size-medium wp-image-319" /></a></p>
 <p>Настоящая или поддельная. Сознательная или непроизвольная?</p>
 <p>Вы не такой умный, когда нужно определить поддельные улыбки.</p>
 <blockquote><p>«Большинство на удивление плохо распознают поддельные улыбки. Одно возможное объяснение состоит в том, что людям проще ладить, когда они не всегда знают, что другие в действительности чувствуют.»</p>
@@ -34,7 +34,7 @@ date:   2011-06-13 12:00:00
 <p>Настоящая улыбка включает в себя работу мышц вокруг глаз, контролировать которые гораздо тяжелее и поэтому менее вероятно, что вы заставите еще и глаза смеяться, когда будете изображать улыбку.</p>
 <p>Два примера выше взяты из теста BBC, который вы можете пройти онлайн и поглядеть, насколько хорошо вы можете различать улыбки. Большинство людей делают это плохо, но теперь, когда вы знаете, что именно нужно искать, оценка должна быть выше среднего.</p>
 <p>Это называют «Улыбкой Дюшена» в честь Гийома Бенджамина Амана Дюшена де Булонь [Guillaume-Benjamin-Amand Duchenne de Boulogne], чье длинное имя может сравниться только с его любовью шокировать людей своим лицом.</p>
-<p><a href="https://web.archive.org/web/20140329085503/http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_22.jpg"><img height="300" width="206" alt="" src="/img/the-duchenne-smile/screenshot_22-206x300.jpg" title="screenshot_22" class="alignleft size-medium wp-image-320" /></a>Дюшен жил в Париже в середине 19 века и удивлял людей, казалось бы, сумасшедшей попыткой выяснить, связаны ли мышцы лица с душой, или нет.</p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2011/06/screenshot_22.jpg"><img height="300" width="206" alt="" src="/img/the-duchenne-smile/screenshot_22-206x300.jpg" title="screenshot_22" class="alignleft size-medium wp-image-320" /></a>Дюшен жил в Париже в середине 19 века и удивлял людей, казалось бы, сумасшедшей попыткой выяснить, связаны ли мышцы лица с душой, или нет.</p>
 <p>Он не нашел никакого духовного связывающего канала, но обнаружил, что есть мышцы около глаз, которые трудно контролировать и которые являются неотъемлемой частью непроизвольной улыбки.</p>
 <p>Он собрал гигантское количество данных о мышцах лица, который дополняется данными исследователей и по сей день.</p>
 <p>Улыбка является универсальным выражением, понятным каждому, так же как и поднятие бровей от удивления или опускание их в гневе.</p>

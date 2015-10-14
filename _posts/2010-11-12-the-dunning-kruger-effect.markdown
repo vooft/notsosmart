@@ -3,7 +3,7 @@ layout: post
 title:  "Эффект Даннинга-Крюгера"
 date:   2010-11-12 12:00:00
 ---
-<p><a href="https://web.archive.org/web/20141015231521/http://youarenotsosmart.com/2010/05/11/the-dunning-kruger-effect/">Оригинал</a>.</p>
+<p><a href="http://youarenotsosmart.com/2010/05/11/the-dunning-kruger-effect/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: Вы можете предположить, как вы поведете себя в той или иной ситуации.</p>
 <p><strong>Истина</strong>: В основном вы плохо оцениваете свои способности и сложность комплексных задач.</p>
 <p><a href="/img/the-dunning-kruger-effect/the-office-michael-scott.jpg"><img height="278" width="254" src="/img/the-dunning-kruger-effect/the-office-michael-scott.jpg" alt="" title="the-office-michael-scott" class="alignleft size-full wp-image-267" /></a>Представьте, насколько вы хороши в какой-нибудь игре.</p>

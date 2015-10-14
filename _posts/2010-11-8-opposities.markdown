@@ -3,10 +3,10 @@ layout: post
 title:  "Противоположности"
 date:   2010-11-8 12:00:00
 ---
-<p><a href="https://web.archive.org/web/20141010193137/http://youarenotsosmart.com/2010/06/17/opposites/">Оригинал</a>.</p>
+<p><a href="http://youarenotsosmart.com/2010/06/17/opposites/">Оригинал</a>.</p>
 <p><strong>Заблуждение</strong>: В романтических отношениях противоположности притягиваются.</p>
 <p><strong>Истина</strong>: Когда речь заходит о личности партнера, вы хотите кого-то подобного вам, но если противоположности-таки притянулись, то такие отношения обычно вскоре рушатся.</p>
-<p><a href="https://web.archive.org/web/20141010193137/http://youarenotsosmart.ru/wp-content/uploads/2010/11/poster1.jpg"><img height="300" width="201" alt="" src="/img/opposities/poster1-201x300.jpg" title="poster1" class="alignleft size-medium wp-image-252" /></a>Возьмите местную газету и поглядите на раздел объявлений о свадьбах.</p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2010/11/poster1.jpg"><img height="300" width="201" alt="" src="/img/opposities/poster1-201x300.jpg" title="poster1" class="alignleft size-medium wp-image-252" /></a>Возьмите местную газету и поглядите на раздел объявлений о свадьбах.</p>
 <p>Вы когда-нибудь замечали, что влюбленные в этих парах выглядят как-то… похоже?</p>
 <p>Похожие улыбки, похожая одежда, похожие носы. Ну же, поглядите, это довольно часто попадается.</p>
 <p>Без сомнения вы всю свою жизнь слышали фразу «противоположности притягиваются». Это же так романтично: люди, которые выглядят настоящими врагами могут быть захвачены неведомой силой, которой никто не может противостоять — любовью.</p>
@@ -47,4 +47,4 @@ date:   2010-11-8 12:00:00
 <p>Может быть, все эти своеобразные двойники в объявлениях о свадьбах не настолько необычны в конце концов.</p>
 <p>Существует множество факторов привлекательности, не только накачанный пресс, роскошные изгибы, мужественные скулы и сочные губы. Вы можете запасть на здоровье, молодость, доход и объем талии, пока вас это привлекает.</p>
 <p>Однако, помимо всех этих начальных факторов, несмотря на то, что вы ищете кого-то с великолепным взглядом на жизнь, прекрасным чувством юмора, и предпочтениями, все равно стандартом, по которому вы судите потенциальных партнеров, являетесь вы сами.</p>
-<p><a href="https://web.archive.org/web/20141010193137/http://youarenotsosmart.ru/wp-content/uploads/2010/11/old-couple-743330.jpg"><img height="192" width="300" alt="" src="/img/opposities/old-couple-743330-300x192.jpg" title="old-couple-743330" class="aligncenter size-medium wp-image-256" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2010/11/old-couple-743330.jpg"><img height="192" width="300" alt="" src="/img/opposities/old-couple-743330-300x192.jpg" title="old-couple-743330" class="aligncenter size-medium wp-image-256" /></a></p>

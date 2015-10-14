@@ -7,7 +7,7 @@ date:   2010-11-5 12:00:00
 <p><strong>Заблуждение</strong>: Вы знаете, почему вам нравятся определенные вещи и воспринимаете мир определенным образом.</p>
 <p><strong>Истина</strong>: Происхождение некоторых эмоциональных состояний непонятно вам и если попробовать объяснить их, то вы попытаетесь хоть что-то придумать.</p>
 <p>Поглядите на это произведение искусства:</p>
-<p><a href="https://web.archive.org/web/20141015231821/http://youarenotsosmart.ru/wp-content/uploads/2010/11/screenshot_9.jpg"><img height="284" width="300" src="/img/the-perils-of-introspection/screenshot_9-300x284.jpg" alt="" title="screenshot_9" class="aligncenter size-medium wp-image-190" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2010/11/screenshot_9.jpg"><img height="284" width="300" src="/img/the-perils-of-introspection/screenshot_9-300x284.jpg" alt="" title="screenshot_9" class="aligncenter size-medium wp-image-190" /></a></p>
 <p>Это наиболее популярное изображение из всех, когда-либо появлявшихся на <a href="http://www.devianart.com/">DeviantArt.com</a>.</p>
 <p>А теперь представьте, что вам нужно написать эссе, почему она популярна. Давайте же, придумайте обоснованное объяснение.</p>
 <p><span id="more-189"></span>Нет, не читайте дальше. Попробуйте все же. Объясните, почему эта фотография является восхитительной.</p>
@@ -22,9 +22,9 @@ date:   2010-11-5 12:00:00
 <p>Потом он привел другую группу и сказал им то же самое, но в этот раз потребовал объяснить, прежде чем отдать постер, почему они хотят именно этот.</p>
 <p>Он выждал шесть месяцев и опросил обе группы, что они думают о своем выборе. Первая группа, которая просто забрала постер и ушла — каждому нравился его выбор. Вторая группа, которым требовалось объяснить, почему именно так, ненавидела выбранные постеры.</p>
 <p>В первой группе, где люди просто брали и уходили, выбирали этот постер:</p>
-<p><a href="https://web.archive.org/web/20141015231821/http://youarenotsosmart.ru/wp-content/uploads/2010/11/manet.jpg"><img height="300" width="198" src="/img/the-perils-of-introspection/manet-198x300.jpg" alt="" title="manet" class="aligncenter size-medium wp-image-191" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2010/11/manet.jpg"><img height="300" width="198" src="/img/the-perils-of-introspection/manet-198x300.jpg" alt="" title="manet" class="aligncenter size-medium wp-image-191" /></a></p>
 <p>А этот постер обычно выбирали во второй группе:</p>
-<p><a href="https://web.archive.org/web/20141015231821/http://youarenotsosmart.ru/wp-content/uploads/2010/11/hang_in_there.jpg"><img height="235" width="198" src="/img/the-perils-of-introspection/hang_in_there-253x300.jpg" alt="" title="hang_in_there" class="aligncenter size-medium wp-image-192" /></a></p>
+<p><a href="http://youarenotsosmart.ru/wp-content/uploads/2010/11/hang_in_there.jpg"><img height="235" width="198" src="/img/the-perils-of-introspection/hang_in_there-253x300.jpg" alt="" title="hang_in_there" class="aligncenter size-medium wp-image-192" /></a></p>
 <p>Это вызывает много проблем.</p>
 <p>Это ставит под вопрос всю область по критичному анализу искусства — видеоиграм, музыке, книгам, поэзии, литературе — всему подобному.</p>
 <p>Это заставляет вещи, подобные фокус-группам или маркетинговым исследованиям выглядеть как мартышкин труд [farts in the wind].</p>
